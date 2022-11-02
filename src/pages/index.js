@@ -19,6 +19,11 @@ function HomepageHeader() {
             Join a live cohort 🚀
           </Link>
         </div>
+        <div className={styles.buttons}>
+          <Link className="btn" to="/docs/welcome/about-speak_">
+            Go to the guide 📝
+          </Link>
+        </div>
       </div>
     </header>
   );
