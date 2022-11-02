@@ -50,6 +50,14 @@ a {
   text-decoration: underline;
 }
 
+a:hover {
+  font-weight: 600;
+}
+
+a.card {
+  text-decoration: none;
+}
+
 code {
   padding: 2px 4px 3px;
 }
@@ -155,6 +163,7 @@ blockquote {
   transition: all 0.3s ease 0s;
   cursor: pointer;
   outline: none;
+  text-decoration: none;
 }
 
 .btn:hover {
