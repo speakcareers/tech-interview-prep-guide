@@ -46,6 +46,21 @@ a {
   font-family: Barlow;
 }
 
+a {
+  text-decoration: underline;
+}
+
+.menu__link,
+.table-of-contents__link,
+.breadcrumbs__link,
+.navbar__link,
+.footer__link-item,
+.pagination-nav__sublabel,
+.pagination-nav__link--next,
+.pagination-nav__link--prev {
+  text-decoration: none;
+}
+
 blockquote {
   padding: 1rem;
   background-color: #f6f6f2;
