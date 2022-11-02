@@ -3,7 +3,7 @@ sidebar_position: 1
 description: 'What is Speak_?'
 ---
 
-# About Speak\_
+# About Speak_
 
 Speak\_ exists to connect underrepresented talent to the job opportunities they deserve.
 
