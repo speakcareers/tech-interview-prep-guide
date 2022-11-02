@@ -53,6 +53,10 @@ Do you know of a great resource that’s missing? Click "Edit this page" at the 
 - [CSDojo](https://youtube.com/c/CSDojo)
 - [sentdex](https://youtube.com/c/sentdex)
 
+**C++**
+
+- [Bucky Roberts](https://youtube.com/user/thenewboston)
+
 **JavaScript**
 
 - [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
@@ -79,10 +83,12 @@ Do you know of a great resource that’s missing? Click "Edit this page" at the 
 
 **HTML & CSS**
 
+- [CS50 - Harvard](https://www.youtube.com/watch?v=alnzFK-4xMY)
 - [Understanding HTML and CSS](https://www.udemy.com/course/understanding-html-and-css/)
 
 **JavaScript**
 
+- [Angela Yu's Web Dev Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - [Understand JavaScript](https://www.udemy.com/course/understand-javascript/)
 
 **Game Dev**
