@@ -50,6 +50,14 @@ a {
   text-decoration: underline;
 }
 
+.footer__link-item:hover {
+  color: #32ebbe;
+}
+
+.footer {
+  background-color: #000;
+}
+
 .menu__link,
 .table-of-contents__link,
 .breadcrumbs__link,
