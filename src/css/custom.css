@@ -16,7 +16,7 @@
   --ifm-color-primary-light: #000;
   --ifm-color-primary-lighter: #000;
   --ifm-color-primary-lightest: #000;
-  --ifm-code-font-size: 95%;
+  --ifm-code-font-size: 80%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
@@ -48,6 +48,10 @@ a {
 
 a {
   text-decoration: underline;
+}
+
+code {
+  padding: 2px 4px 3px;
 }
 
 .footer__link-item:hover {
