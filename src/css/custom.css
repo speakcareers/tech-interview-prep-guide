@@ -9,13 +9,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
 
 :root {
-  --ifm-color-primary: #1f755f;
-  --ifm-color-primary-dark: #1c6955;
-  --ifm-color-primary-darker: #1a6351;
-  --ifm-color-primary-darkest: #165242;
-  --ifm-color-primary-light: #228168;
-  --ifm-color-primary-lighter: #12b68e;
-  --ifm-color-primary-lightest: #32ebbe;
+  --ifm-color-primary: #000;
+  --ifm-color-primary-dark: #000;
+  --ifm-color-primary-darker: #000;
+  --ifm-color-primary-darkest: #000;
+  --ifm-color-primary-light: #000;
+  --ifm-color-primary-lighter: #000;
+  --ifm-color-primary-lightest: #000;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
