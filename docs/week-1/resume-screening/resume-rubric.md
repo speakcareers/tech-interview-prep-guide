@@ -25,9 +25,17 @@ Do not change:
 
 :::
 
-### The Speak\_ Resume Rubric
+## The Speak\_ Resume Rubric
+
+Use the following rubric to make sure that your Speak\_ resume can be accepted.
+
+### General
 
 - [ ] The Speak\_ Resume formatting has not been changed at all.
+- [ ] The Speak\_ Resume is 1 or 2 pages long.
+
+### Resume Heading
+
 - [ ] The name in the header has been changed to your name.
 - [ ] The email address correctly links to your email.
 - [ ] The fake phone number has been replaced with your real number.
@@ -36,13 +44,15 @@ Do not change:
 - [ ] The Portfolio link points to your developer portfolio website. If you don’t have a portfolio site, then you can remove the Portfolio link from the resume.
 - [ ] The location has been replaced with your location.
 - [ ] The pronouns have been updated or removed.
+
+### Resume Personalization
+
 - [ ] The Summary is less than two lines.
 - [ ] The Skills section lists your technical skills.
 - [ ] The Education section includes all college degrees and/or coding bootcamps.
 - [ ] The Experience section only includes relevant work experience and/or internships.
 - [ ] The Projects section has fewer than 5 total projects. (2-3 is the sweet spot!)
 - [ ] No Education, Experience, or Project listed has more than 4 bullet points.
-- [ ] The Speak\_ Resume is 1 or 2 pages long.
 
 :::caution Note
 
