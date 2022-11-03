@@ -68,18 +68,18 @@ const config = {
             type: 'doc',
             docId: 'welcome/about-speak_',
             position: 'left',
-            label: 'Tech Interview Prep',
+            label: 'Tech Interview Prep Guide',
           },
-          {
-            href: 'https://discord.gg/wjnAEVjbCu',
-            label: 'Discord',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/speakcareers/tip',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://discord.gg/wjnAEVjbCu',
+          //   label: 'Discord',
+          //   position: 'right',
+          // },
+          // {
+          //   href: 'https://github.com/speakcareers/tip',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
           {
             href: 'https://speak.careers',
             label: 'Speak_',
@@ -120,6 +120,10 @@ const config = {
             title: 'More',
             items: [
               {
+                label: 'Speak_',
+                href: 'https://speak.careers',
+              },
+              {
                 label: 'Blog',
                 href: 'https://speak.careers/blog',
               },
@@ -130,7 +134,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Speak_. Built with Docusaurus.`,
+        copyright: `Copyright ©${new Date().getFullYear()} Speak_. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

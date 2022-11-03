@@ -15,13 +15,13 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link className="btn" to="https://airtable.com/shrk5CgnTodb43nuj">
-            Join a live cohort 🚀
+          <Link className="btn" to="https://speak.careers/">
+            🚀 Join a live cohort
           </Link>
         </div>
         <div className={styles.buttons}>
           <Link className="btn" to="/docs/welcome/about-speak_">
-            Go to the guide 📝
+            📝 Go to the guide
           </Link>
         </div>
       </div>
