@@ -62,4 +62,4 @@ You’ll be on your way to an amazing dream job if you take action and follow th
 
 This is a cohort-based experience. That means there are other software engineers going through this exact process _right now._ Team up with others and be active in the community in order to get the most out of this opportunity.
 
-<a className="btn" href="https://airtable.com/shrk5CgnTodb43nuj">Apply for the next cohort</a>
+<a className="btn" href="https://speak.careers/">Apply for the next cohort</a>
