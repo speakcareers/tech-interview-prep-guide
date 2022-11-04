@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 description: "Here's how to submit your resume..."
 ---
 
@@ -77,6 +77,8 @@ It will provide the structure and outline, and all you’ll have to do is plug i
 Did you post your resume on the Google Spreadsheet and get feedback from your peers?
 
 Double check that your resume follows the Speak\_ Resume Rubric. Then, click the link below to submit your Speak\_ Resume.
+
+**NOTE: You should submit your Speak\_ Resume as a PDF to avoid formatting errors.**
 
 <a className="btn" href="https://airtable.com/shrqYAa5xz1yKVOjl?prefill_Assignment%20Name=Resume">
 ✅ Click here to submit your completed Speak_ Resume</a>

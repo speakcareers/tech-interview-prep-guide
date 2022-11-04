@@ -1,5 +1,5 @@
 ---
-sidebar-position: 4
+sidebar_position: 3
 description: 'Get resume feedback'
 ---
 
