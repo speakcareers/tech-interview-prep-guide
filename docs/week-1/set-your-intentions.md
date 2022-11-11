@@ -32,6 +32,12 @@ Science-backed data shows that an [implementation intention](https://en.wikipedi
 
 And there's a bunch of science that supports this.
 
+Watch this video for a deep dive into how effective implementation intentions can be:
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/DUAB-BW-gZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 :::tip Check out these articles for more info:
 
 - [https://jamesclear.com/implementation-intentions](https://jamesclear.com/implementation-intentions)
