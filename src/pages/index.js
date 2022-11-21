@@ -3,7 +3,6 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
@@ -33,14 +32,14 @@ export default function Home() {
       description="Prepare for technical interviews with a free cohort-based course."
     >
       <HomepageHeader />
-      <main>
-        <div className="container">
+      <div className={styles.section}>
+        <div className={clsx('container', styles.narrow)}>
           <h2>Get ready for your tech interviews.</h2>
           <p>Twice a month for over a year, Speak_ has run a free cohort-based course that helps software engineers get prepared for their tech interviews at any company. This is the guide that grew out of our learnings from running those cohorts.</p>
           <p>Designed to introduce all the possible challenges you might face in a tech interview, this guide can help you know what to expect and how to prepare.</p>
           <p>We decided to open source it so that anyone can get access to this knowledge and so our community can take an active part in improving the content. This helps us grow our talent base, and allows us to support more qualified underrepresented candidates in finding jobs, which is our mission.</p>
         </div>
-      </main>
+      </div>
       <div className={styles.section}>
         <div className="container">
           <div className="row">

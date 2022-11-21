@@ -66,15 +66,22 @@ code {
 
 .footer {
   background-color: #FFF;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 3rem 0 2rem;
+}
+
+.footer .container {
+  padding: 0 1rem;
+  max-width: 100%;
 }
 
 .footer a {
   color: #000;
 }
 
-/*.footer__link-item:hover {
-  color: #32ebbe;
-}*/
+.footerLogo {
+  width: 100px;
+}
 
 .menu__link,
 .table-of-contents__link,
@@ -138,4 +145,13 @@ blockquote {
 
 iframe {
   margin: 1rem 0;
+}
+
+@media (max-width: 996px) {
+  main {
+
+  }
+  .footer .footer__col:nth-child(2) {
+    display: none;
+  }
 }

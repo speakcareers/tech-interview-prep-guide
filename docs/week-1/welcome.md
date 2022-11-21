@@ -11,6 +11,6 @@ To kick off Week 1, we'll talk about the power of intention setting, then dive i
 
 If you're in a cohort, stay tuned to the cohort channel in Discord and the weekly workshops to get a recommended timeline for staying on track with this material.
 
-If you're following this guide on your own, we recommend dedicating about an hour a day to reading the material and practice. Feel free to [join our Discord](https://discord.gg/wjnAEVjbCu) for some community support.\
+If you're following this guide on your own, we recommend dedicating about an hour a day to reading the material and practice. Feel free to [join our Discord](https://discord.gg/wjnAEVjbCu) for some community support.
 
 Ready to go? Ok, let's roll! 🏎️
