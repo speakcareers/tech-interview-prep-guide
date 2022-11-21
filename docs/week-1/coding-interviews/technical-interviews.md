@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Coding Interviews
+# Coding interviews
 
 Technically, not all tech interviews are technical. But the coding interview definitely is. 😝
 

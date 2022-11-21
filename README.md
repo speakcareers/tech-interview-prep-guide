@@ -17,4 +17,4 @@ Speak\_ starts a new 2-week cohort twice per month:
 - On the first Wednesday of the month.
 - On the 3rd Wednesday of the month.
 
-To join the next cohort, all you have to do is [fill out an application](https://airtable.com/shrk5CgnTodb43nuj).
+To join the next cohort, all you have to do is [fill out an application](https://speak.careers).

@@ -1,8 +1,8 @@
 {
   "label": "Whiteboarding",
-  "position": 1,
+  "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Tips for whiteboarding interviews."
+    "description": "Tips and what to expect with whiteboarding."
   }
 }

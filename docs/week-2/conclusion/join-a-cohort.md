@@ -15,4 +15,4 @@ The cohorts are designed to guide you through this material, but you'll also get
 
 Ready?
 
-<a className="btn" href="https://airtable.com/shrk5CgnTodb43nuj">Join for free</a>
+<a className="btn" href="https://speak.careers">Join for free</a>

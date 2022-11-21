@@ -58,44 +58,37 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        // title: 'Speak_',
         logo: {
           alt: 'Speak_ Logo',
           src: 'img/speak-logomark-256.jpeg',
         },
         items: [
           {
-            type: 'doc',
-            docId: 'welcome/about-speak_',
+            href: '/',
             position: 'left',
             label: 'Tech Interview Prep Guide',
           },
-          // {
-          //   href: 'https://discord.gg/wjnAEVjbCu',
-          //   label: 'Discord',
-          //   position: 'right',
-          // },
-          // {
-          //   href: 'https://github.com/speakcareers/tip',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
           {
-            href: 'https://speak.careers',
-            label: 'Speak_',
+            to: '/docs/welcome/about-this-guide',
+            label: 'Read the guide',
+            position: 'right',
+          },
+          {
+            to: 'https://speak.careers',
+            label: 'Join a cohort',
             position: 'right',
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Guide',
             items: [
               {
                 label: 'Tech Interview Prep',
-                to: '/docs/welcome/about-speak_',
+                to: '/docs/welcome/about-this-guide',
               },
             ],
           },

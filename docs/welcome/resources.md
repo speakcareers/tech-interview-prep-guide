@@ -1,14 +1,15 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
+description: Community-sourced goodies.
 ---
 
 # Resources
 
-Here are some great resources recommended by other people in the program. Check them out!
+Here are some great resources related to preparing for tech interviews recommended by members of the Speak\_ community. Check them out! 👊🏼
 
-:::caution Add more!
+:::caution Suggest resources
 
-Do you know of a great resource that’s missing? Click "Edit this page" at the bottom of the post and make a recommendation.
+Do you know of a killer resource that’s missing here? Just click "Edit this page" at the bottom of the post and make a recommendation.
 
 :::
 
@@ -24,7 +25,7 @@ Do you know of a great resource that’s missing? Click "Edit this page" at the 
 
 - [Josh Comeau](https://www.joshwcomeau.com/css/designing-shadows/)
 
-**Data Structures & Algorithms**
+**Data structures & algorithms**
 
 - [Neetcode](https://neetcode.io/)
 - [Firecode](https://firecode.io/pages/landing)
@@ -40,7 +41,7 @@ Do you know of a great resource that’s missing? Click "Edit this page" at the 
 
 ## YouTube
 
-**Data Structures & Algorithms**
+**Data structures & algorithms**
 
 - [Constantin Irimia](https://www.youtube.com/channel/UC-HHxlBILQUFDKMkaoSRPPg) ← Speak\_ Community Member!
 - [Algorithms with Attitude](https://www.youtube.com/c/AlgorithmswithAttitude)
@@ -91,6 +92,6 @@ Do you know of a great resource that’s missing? Click "Edit this page" at the 
 - [Angela Yu's Web Dev Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - [Understand JavaScript](https://www.udemy.com/course/understand-javascript/)
 
-**Game Dev**
+**Game dev**
 
 - [GameDev](https://www.gamedev.tv/)

@@ -1,31 +1,32 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Resume rubric
 
-On the next page, called `Challenge: Update your resume`, we'll share the Speak\_ resume template with you so that you can complete it and submit it.
+On the lesson called `Challenge: Update your resume` in this module, we'll share the Speak\_ resume template with you so that you can complete it and submit it.
 
 For Speak\_ to attempt to match you with partner companies, you must follow the rubric. If your resume doesn’t check all of the boxes below then we cannot accept it.
 
-:::danger important! Do not change the Speak\_ Resume Formatting.
-
-We cannot share your resume with our partner companies if you do not follow the rules listed below. Formatting is important.
+:::danger important! Do not change the formatting.
 
 **If you change the formatting then your resume will be automatically rejected.**
 
-Do not change:
+We cannot share your resume with our partner companies if you don't follow the rules listed below. Formatting is important.
 
+Do not change:
 - Fonts
 - Colors
 - Margins
-- Line Spacings
-- Section Titles
-- Text Alignment
+- Line spacing
+- Section titles
+- Text alignment
+
+You can always make another version to share outside of Speak\_. 😉
 
 :::
 
-## The Speak\_ Resume Rubric
+## The Speak\_ resume rubric
 
 Use the following rubric to make sure that your Speak\_ resume can be accepted.
 
@@ -34,7 +35,7 @@ Use the following rubric to make sure that your Speak\_ resume can be accepted.
 - [ ] The Speak\_ Resume formatting has not been changed at all.
 - [ ] The Speak\_ Resume is 1 or 2 pages long.
 
-### Resume Heading
+### Resume heading
 
 - [ ] The name in the header has been changed to your name.
 - [ ] The email address correctly links to your email.
@@ -45,7 +46,7 @@ Use the following rubric to make sure that your Speak\_ resume can be accepted.
 - [ ] The location has been replaced with your location.
 - [ ] The pronouns have been updated or removed.
 
-### Resume Personalization
+### Resume personalization
 
 - [ ] The Summary is less than two lines.
 - [ ] The Skills section lists your technical skills.
@@ -56,8 +57,8 @@ Use the following rubric to make sure that your Speak\_ resume can be accepted.
 
 :::caution Note
 
-If you don’t have any years of experience but want to include a skill, leave the number off instead of putting 0.
+If you don’t have a full year of experience with a skill but want to include it, use a decimal point.
 
-Example: Python | JavaScript | Go
+Example: Python 0.25 | JavaScript 0.5
 
 :::

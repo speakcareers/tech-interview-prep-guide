@@ -1,5 +1,6 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
+description: Coding from the comfort of your home.
 ---
 
 # Take Home Projects
@@ -12,9 +13,9 @@ The best ones are time-boxed to an hour or two, but sometimes they might even ta
 
 Take-home projects do offer a few benefits over traditional coding assessments.
 
-- **You can complete the task in your own time.** Assessments can be stressful because of the strict time limit, but take-home projects let you work at your own pace. Want to stop and eat tacos halfway through? No problem! 🌮
-- **You can show employers a realistic work sample.** Take-home projects give candidates who haven’t memorized algorithms a chance to show off their creative thinking and their ability to code.
-- **You can stand out from others.** Look into a company’s style guide or coding conventions and use them in your take-home project! This will show the company that you’ve done your research and demonstrate your ability to go above and beyond.
+- **You can complete the task in your own time.** Assessments can be stressful because of the strict time limit, but take-home projects let you work at your own pace. Want to stop and eat tacos halfway through? No problem! 🌮
+- **You can show employers a realistic work sample.** Take-home projects give candidates who haven’t memorized algorithms a chance to show off their creative thinking and their ability to code.
+- **You can stand out from others.** Look into a company’s style guide or coding conventions and use them in your take-home project! This will show the company that you’ve done your research and demonstrate your ability to go above and beyond.
 
 Most take-home projects are designed to test you on a particular skill. For example...
 

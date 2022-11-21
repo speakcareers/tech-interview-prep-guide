@@ -1,5 +1,6 @@
 ---
-sidebar_position: 7
+sidebar_position: 3
+description: The dos and donts when you negotiate.
 ---
 
 # Negotiation Etiquette
@@ -18,6 +19,6 @@ Negotiation is an important part of the hiring process, but it can be tough to n
 
 Here's a great guide on salary negotiation in tech. It goes over common compensation packages and offers tips for getting the best outcome.
 
-👉 [https://candor.co/guides/salary-negotiation](https://candor.co/guides/salary-negotiation)
+👉 [https://candor.co/guides/salary-negotiation](https://candor.co/guides/salary-negotiation)
 
 :::
