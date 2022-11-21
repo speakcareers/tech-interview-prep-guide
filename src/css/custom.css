@@ -67,7 +67,10 @@ code {
 .footer {
   background-color: #FFF;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 0 auto;
+  max-width: 1140px;
   padding: 3rem 0 2rem;
+  width: 100%;
 }
 
 .footer .container {
@@ -138,6 +141,11 @@ blockquote {
   font-size: 12px;
 }
 
+.navbar__inner {
+  margin: 0 auto;
+  max-width: 1140px;
+}
+
 .navbar__toggle {
   position: absolute;
   right: 8px;
@@ -153,5 +161,11 @@ iframe {
   }
   .footer .footer__col:nth-child(2) {
     display: none;
+  }
+}
+
+@media (min-width: 1440px) {
+  .navbar__inner, .footer {
+    max-width: 1320px;
   }
 }
