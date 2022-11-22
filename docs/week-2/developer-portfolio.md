@@ -1,5 +1,6 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
+description: An often overlooked professional asset.
 ---
 
 # Developer Portfolio

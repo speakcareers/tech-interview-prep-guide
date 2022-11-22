@@ -7,12 +7,11 @@ description: "Here's how to submit your resume..."
 
 ## Make a copy of the Speak\_ Resume Template
 
-This template will be the building block for your resume.
+This template will be the building block for your resume. It'll provide the structure and outline, and all you’ll have to do is plug in your own information. At the end of this assignment, you’ll have a strong, recruiter-friendly resume.
 
-It will provide the structure and outline, and all you’ll have to do is plug in your own information. At the end of this assignment, you’ll have a strong resume.
+Click the button below to make a copy of the Google Docs template. This will open up a new version of the template that you can customize. By default, your copy won't be shared with anyone.
 
-<a className="btn" href="https://docs.google.com/document/d/13hNno_vTl6j5gbgqGKta9eXLpR4GFZyG/copy">
-🖱️ Click here to make a copy of the Speak_ Resume Template</a>
+<a className="btn" href="https://docs.google.com/document/d/13hNno_vTl6j5gbgqGKta9eXLpR4GFZyG/copy">Copy the Speak_ Resume Template</a>
 
 ## Speak\_ Resume FAQs
 
@@ -35,7 +34,7 @@ It will provide the structure and outline, and all you’ll have to do is plug i
 
 <details>
   <summary>
-  <strong>Question:</strong> When I use the Speak_ template, my resume becomes 2 pages long. I’ve heard that it’s better to have a 1-page resume. What should I do?
+  <strong>Question:</strong> When I use this template, my resume becomes 2 pages long. I’ve heard that it’s better to have a 1-page resume. What should I do?
   </summary>
   <div>
     <div>
@@ -65,20 +64,22 @@ It will provide the structure and outline, and all you’ll have to do is plug i
   </summary>
   <div>
     <div>
-    <p><strong>Answer:</strong> Yes. If you do not have anything to include in a section then you may remove it. However, every section that you remove hurts the strength of your resume.</p>
+    <p><strong>Answer:</strong> Yes. If you do not have anything to include in a section then you may remove it. However, every section that you remove decreases the strength of your resume.</p>
     <p>Instead of removing a section, we recommend working hard to fill in the holes on your resume.</p>
-    <p>If you don’t have projects, for example, then spending time working on 2 high-quality projects would be an excellent use of your time.</p>
+    <p>For example, if you don’t have projects, then spending time working on 2 high-quality projects would be an excellent use of your time.</p>
     </div>
   </div>
 </details>
 
-## Submit Your Speak\_ Resume
+## Submit your Speak\_ Resume
 
-Did you post your resume on the Google Spreadsheet and get feedback from your peers?
+Before you submit your resume, read the next lesson called `Cohort challenge: Get resume feedback`. This is an important step to make sure you get personalized feedback on your resume before submitting it.
 
-Double check that your resume follows the Speak\_ Resume Rubric. Then, click the link below to submit your Speak\_ Resume.
+Got your feedback? Great!  
+Did you double check that your resume follows the [Speak\_ Resume Rubric](/docs/week-1/resume-screening/resume-rubric)? Excellent!
 
-**NOTE: You should submit your Speak\_ Resume as a PDF to avoid formatting errors.**
+**NOTE: Submit your Speak\_ Resume as a PDF to avoid formatting errors.**
 
-<a className="btn" href="https://airtable.com/shrqYAa5xz1yKVOjl?prefill_Assignment%20Name=Resume">
-✅ Click here to submit your completed Speak_ Resume</a>
+Now, click the button below to submit your Speak\_ Resume.
+
+<a className="btn" href="https://airtable.com/shrqYAa5xz1yKVOjl?prefill_Assignment%20Name=Resume">Submit completed Speak_ Resume</a>

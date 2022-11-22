@@ -1,5 +1,6 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
+description: Exchanging questions and expectations.
 ---
 
 # Screening Calls
@@ -65,11 +66,11 @@ Do your own research into the company and ask questions that matter to you. This
 
 Lastly, just know that sometimes recruiters don't work inside of the company they are interviewing for, so they might not even have all the answers to your questions. As always, be polite, professional, and patient and you can't go wrong.
 
-:::tip Bonus Resource: Questions to Ask
+:::tip Bonus resource: Questions to ask
 
-Select a 1-5 questions from the reference below (there are over 50 to choose from!)
+Select a 1-5 questions from the reference from The Muse below (there are over 50 to choose from!)
 
-[https://www.themuse.com/advice/51-interview-questions-you-should-be-asking](https://www.themuse.com/advice/51-interview-questions-you-should-be-asking)
+[51 Interview Questions You Should Be Asking](https://www.themuse.com/advice/51-interview-questions-you-should-be-asking)
 
 :::
 

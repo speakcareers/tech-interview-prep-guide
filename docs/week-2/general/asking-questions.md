@@ -16,6 +16,6 @@ Select 1-5 questions you like from the reference below (there are over 50 to cho
 
 :::tip Reference
 
-[https://www.themuse.com/advice/51-interview-questions-you-should-be-asking](https://www.themuse.com/advice/51-interview-questions-you-should-be-asking)
+[51 Interview Questions You Should Be Asking](https://www.themuse.com/advice/51-interview-questions-you-should-be-asking)
 
 :::

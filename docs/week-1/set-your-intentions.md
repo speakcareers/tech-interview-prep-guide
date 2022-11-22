@@ -1,12 +1,13 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
+description: A proven trick to achieve your goals.
 ---
 
 # Challenge: Set your intentions
 
 ## What is an intention?
 
-An intention is a **commitment to yourself** to follow through on something.
+An intention is a **commitment to yourself** to follow through on something. 🎯
 
 Typically, an intention follows the format:
 
@@ -38,12 +39,14 @@ Watch this video for a deep dive into how effective implementation intentions ca
 
 ---
 
-:::tip Check out these articles for more info:
+:::tip
 
-- [https://jamesclear.com/implementation-intentions](https://jamesclear.com/implementation-intentions)
-- [http://psychology.iresearchnet.com/social-psychology/control/implementation-intentions/](http://psychology.iresearchnet.com/social-psychology/control/implementation-intentions/)
-- [https://www.psychologytoday.com/us/blog/dont-delay/201001/implementation-intentions-facilitate-action-control](https://www.psychologytoday.com/us/blog/dont-delay/201001/implementation-intentions-facilitate-action-control)
-- [https://www.sciencedirect.com/science/article/abs/pii/S0065260106380021](https://www.sciencedirect.com/science/article/abs/pii/S0065260106380021)
+Check out these articles if you want to deep dive into the topic.
+
+- [Implementation Intentions by James Clear](https://jamesclear.com/implementation-intentions)
+- [Impementation Intentions summary on Iresearchnet](http://psychology.iresearchnet.com/social-psychology/control/implementation-intentions/)
+- [Implementation Intentions Facilitate Action Control](https://www.psychologytoday.com/us/blog/dont-delay/201001/implementation-intentions-facilitate-action-control)
+- [Implementation Intentions and Goal Achievement](https://www.sciencedirect.com/science/article/abs/pii/S0065260106380021)
 
 :::
 
@@ -53,4 +56,4 @@ At Speak\_, we're providing a ton of resources to help you prepare for upcoming 
 
 Now is your chance to create your own intention and start off your job search on the right foot.
 
-<a className="btn" href="https://airtable.com/shrcn1QBzW5liRKf3">Click here to set an intention!</a>
+If you're in a cohort, follow the link in the pinned message of the cohort channel to share your intention to create accountability during the program.

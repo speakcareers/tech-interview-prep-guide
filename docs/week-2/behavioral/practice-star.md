@@ -19,7 +19,7 @@ It is VERY likely that you will see some version of these questions in real inte
 
 ## Instructions
 
-1. Make a copy of the [STAR worksheet](https://docs.google.com/document/d/1dpTNrraULcgYxjggvLmoo6FlOnLkgwJH/copy)
+1. Make a copy of the [STAR worksheet](https://docs.google.com/document/d/1dpTNrraULcgYxjggvLmoo6FlOnLkgwJH/copy)
 2. Fill out the worksheet with your answers
 
 :::danger Important!

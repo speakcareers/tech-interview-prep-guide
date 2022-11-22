@@ -4,11 +4,7 @@ sidebar_position: 3
 
 # DS&A Tips
 
-When you're taking online assessments or doing live coding interviews, you might think that the only thing that matters is whether or not the test cases pass.
-
-In some cases, this is true.
-
-But most of the time, the company is less interested in the solution and more interested in _how you arrived at it_.
+When you're taking online assessments or doing live coding interviews, you might think that the only thing that matters is whether or not the test cases pass. In some cases, this is true. But most of the time, the company is less interested in the solution and more interested in _how you arrived at it_. 🧠
 
 You have to prove:
 
@@ -20,18 +16,13 @@ Luckily, there are frameworks you can use that make it MUCH easier to hit all th
 
 ## What is REACTO?
 
-REACTO is an acronym:
+REACTO is an acronym.
 
-**R** - Repeat the question
-
-**E** - Examples
-
-**A** - Approaches
-
-**C** - Code
-
-**T** - Test
-
+**R** - Repeat the question  
+**E** - Examples  
+**A** - Approaches  
+**C** - Code  
+**T** - Test  
 **O** - Optimize
 
 It outlines a simple path for you to follow as you tackle any algorithm-style question, whether it's in an online assessment or during a live technical interview.
@@ -50,7 +41,7 @@ Aside from following the REACTO framework, here are a few other things you can d
 
 ### Comment your code
 
-This tip gets tossed around all the time but we **rarely** see anyone actually do it. As you solve algorithms for online assessments, write descriptive comments about what you're doing and why.
+This tip gets tossed around all the time but we _rarely_ see anyone actually do it. As you solve algorithms for online assessments, write descriptive comments about what you're doing and why.
 
 This helps code reviewers understand your decision making. And if you ever have to revisit, explain, or defend your code later on then these comments will make it much easier for you to remember your own thought process.
 

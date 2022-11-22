@@ -12,10 +12,10 @@ The purpose of this style of interview isn’t to make sure that your code is ru
 
 Here are our recommended steps to follow in your whiteboarding interview, regardless of the challenge type.
 
-1. **Repeat the question.** Make sure you do understand the problem.
-2. **Ask clarifying questions** to ensure you’re on the right track in solving the problem
-3. Come up with your **approach** to the problem. Usually, you can use brute force first.
-4. **Think out loud** - share your process.
+1. **Repeat the question.** Make sure you do understand the problem.
+2. **Ask clarifying questions** to ensure you’re on the right track in solving the problem
+3. Come up with your **approach** to the problem. Usually, you can use brute force first.
+4. **Think out loud** - share your process.
 
 There are 2 major types of challenges you might do during a whiteboarding interview - algorithms or system design.
 
@@ -25,10 +25,10 @@ You might get asked Leetcode-style algorithm questions and then have to solve th
 
 Here are some helpful tips that you should add to the recommended steps above.
 
-1. Get insights by **writing out examples**. Make a 2-column table with the input on the left and the output on the right.
-2. Write a code outline using **pseudocode** to demonstrate your approach.
-3. Make sure your code **accounts for the example cases** you came up with above.
-4. **Optimize** the (time & space) complexities of your algorithm.
+1. Get insights by **writing out examples**. Make a 2-column table with the input on the left and the output on the right.
+2. Write a code outline using **pseudocode** to demonstrate your approach.
+3. Make sure your code **accounts for the example cases** you came up with above.
+4. **Optimize** the (time & space) complexities of your algorithm.
 
 ## On-site vs Virtual
 
@@ -46,7 +46,7 @@ During the pandemic, lots of companies have moved away from on-site interviews i
 - The free-form space of a canvas is often replaced with constrained text editors, and so you’ll have to express yourself more through text than through hand-drawn diagrams.
 - In-person meetings have been replaced with video calls. (Refer to the “Remote Interview Checklist” module from Week 1 for tips on how to make a good impression on a video call.)
 
-Find out which tools you'll be using for your interview ahead of time. If you need to use a tool like [Miro](https://miro.com/), you'll want to have created an account to log in and try making charts and writing text.
+Find out which tools you'll be using for your interview ahead of time. If you need to use a tool like [Miro](https://miro.com/), you'll want to have created an account to log in and try making charts and writing text.
 
 :::tip Resources
 

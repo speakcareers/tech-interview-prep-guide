@@ -1,10 +1,11 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
+description: Keep Speak_ a safe, inclusive space.
 ---
 
 # Code of conduct
 
-By participating in the Speak\_ community and program, you agree to our code of conduct.
+By participating in the Speak\_ community - including messaging on Discord, attending events, taking courses, and contributing code to this guide - you agree to our code of conduct. 🫡
 
 We expect full cooperation from all participants to ensure a safe environment for everybody.
 
@@ -14,7 +15,7 @@ _Be excellent to each other, show empathy, and help make this a safe space to gr
 
 Speak\_ is dedicated to providing a harassment-free experience for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, race, ethnicity, experience, or religion (or lack thereof).
 
-We do not tolerate harassment of Speak\_ participants in any form. Sexual language and imagery is not appropriate, including anything communicated on discord, calls, events, social media, or any other outlets.
+We do not tolerate harassment of Speak\_ participants in any form. Sexual language and imagery is not appropriate, including anything communicated on Discord, calls, events, social media, or any other outlets.
 
 Speak\_ participants violating these rules may be sanctioned or expelled from the community at the discretion of the Speak\_ team.
 

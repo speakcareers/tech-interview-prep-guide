@@ -16,10 +16,10 @@ Preparing for behavioral interview questions can be challenging. There are endle
 
 The STAR Method is an acronym that is best understood by what it stands for:
 
-- **Situation** – Describe the context
-- **Task** – Provide details on your responsibilities
-- **Action** – Demonstrate how you responded or took charge
-- **Result** – Explain the impact you made or the lessons you learned
+- **Situation** – Describe the context
+- **Task** – Provide details on your responsibilities
+- **Action** – Demonstrate how you responded or took charge
+- **Result** – Explain the impact you made or the lessons you learned
 
 This gives you a structured way to answer interview questions. Without a strategy like this, it can be easy to ramble and be unfocused in your responses. This is especially true if you’re asked a question you’ve never heard of before and you’re thinking on the spot.
 
@@ -57,7 +57,7 @@ This next step is where you get to the real meat of the story you’re telling. 
 
 ### Result
 
-It’s not enough to just explain what the result was – instead, you should explain to the interviewer the impact *you* made and/or an important lesson you learned.
+It’s not enough to just explain what the result was – instead, you should explain to the interviewer the impact *you* made and/or an important lesson you learned.
 
 Sometimes, by the end of a behavioral interview answer, candidates feel like they need to stop talking and skimp out on this part of the STAR Method. As every great movie needs a great conclusion, your behavioral answer will need a memorable ending in order to round out a strong behavioral interview answer.
 

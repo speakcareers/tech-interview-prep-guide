@@ -46,7 +46,7 @@ In the end, your interviewers are going to learn what your real proficiency leve
 
 It's ok to be exactly where you are. No one was born coding! Do the best you can, and that will often be good enough. And if it's not, you'll learn where you need practice if you want to get a particular job. People who don't give up are impossible to defeat.
 
-:::tip Share your favorite resources with others
+:::tip Share
 
 Have any extra study tips or resources you absolutely love and think others could benefit from? Share them in the [Speak\_ Discord](https://discord.gg/wjnAEVjbCu) and let us know!
 
@@ -94,7 +94,7 @@ It's incredibly simple to create your own online assessment, for free, with just
 
 Follow the steps below to make a practice assessment for yourself.
 
-### Step 1: Choose Two Questions
+### Step 1: Choose two questions
 
 Prepare your practice assessment by choosing 2 questions from the [Big List of DS&A Questions](docs/week-1/coding-assessments/big-list-of-dsa-problems.md).
 
@@ -104,12 +104,12 @@ What difficulty you choose is up to you, but we recommend 1 easy and 1 medium ch
 
 We recommend mixing and matching categories. For example:
 
-- Question 1: String Manipulation - [Detect Capital](https://leetcode.com/problems/detect-capital)
-- Question 2: Dynamic Programming - [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+- Question 1: String Manipulation - [Detect Capital](https://leetcode.com/problems/detect-capital)
+- Question 2: Dynamic Programming - [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 
 :::
 
-### Step 2: Take the Practice Assessment
+### Step 2: Take the practice assessment
 
 Once you've chosen 2 questions, set a timer for 60 minutes and get to work.
 
@@ -122,7 +122,7 @@ Do your best to simulate a real test environment:
 
 If you get stuck on the first problem and can't solve it in under 30 minutes, move on to the second problem. You can go back and try to complete the first problem if you have time left over at the end.
 
-### Step 3: Review Your Solutions and Repeat
+### Step 3: Review your solutions and repeat
 
 After you finish your homemade assessment, review your solutions.
 
@@ -152,4 +152,4 @@ Before you study, set an intention about what you want to learn or accomplish. A
 
 ### 4. Remember what you learned
 
-Use [active recall](https://www.youtube.com/watch?v=btLPgWxKISM) to test your knowledge. Spaced repetition programs like Anki and Remnote are great for this.
+Use [active recall](https://www.youtube.com/watch?v=btLPgWxKISM) to test your knowledge. Spaced repetition programs like Anki and Remnote are great for this.

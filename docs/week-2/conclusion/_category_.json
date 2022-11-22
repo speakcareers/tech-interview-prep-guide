@@ -1,8 +1,8 @@
 {
   "label": "Conclusion",
-  "position": 8,
+  "position": 9,
   "link": {
     "type": "generated-index",
-    "description": "You've completed the material... now what?"
+    "description": "You've completed the guide...now what?"
   }
 }

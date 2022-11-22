@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Pair Programming
+# Pair programming
 
 Pair programming is where two developers work using only one machine - or in the remote world, where one person shares their screen. 👩🏾‍🦳💻👨🏼‍🦰
 
@@ -10,7 +10,7 @@ There are a few ways of running pair programming sessions, but the most popular 
 
 At some companies, pair programming is a core part of the engineering experience. It can be an important tool where code quality is critical, like in banking or similar industries where compliance requires security and safety measures for users.
 
-You'll be working in pairs multiple times in this cohort. For your first pair session, the focus is *pair programming,* so here’s a quick framework you should follow.
+You'll be working in pairs multiple times in this cohort. For your first pair session, the focus is *pair programming,* so here’s a quick framework you should follow.
 
 ## Driver/Navigator Pair Programming Framework
 
@@ -30,14 +30,14 @@ You'll be working in pairs multiple times in this cohort. For your first pair se
   - Let's check in
   - Let's revert
   - Let's take a break
-- *Aways ask permission* before grabbing the keyboard
+- *Aways ask permission* before grabbing the keyboard
   - "Do you mind if I drive now?"
 - Silently count to 10 before interrupting with (e.g. a typo or syntax error)
   - Chances are that the driver will notice and fix it themselves
 
 :::tip References
 
-- [https://www.ibm.com/garage/method/practices/code/practice_pair_programming/](https://www.ibm.com/garage/method/practices/code/practice_pair_programming/)
-- [https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)
+- [IBM's Program in Pairs](https://www.ibm.com/garage/method/practices/code/practice_pair_programming/)
+- [Pair Programming Guide by Weblab](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)
 
 :::

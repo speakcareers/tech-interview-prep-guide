@@ -1,16 +1,17 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
+description: Know what to expect to perform your best.
 ---
 
 # Interview Components
 
-Tech companies (especially FAANG/MANGA - or whatever the new acronym is for all the top tech giants) have a multi-step interview process that covers a broad range of skills. 🧑🏾‍💻
+Tech companies (especially FAANG or MANGA or whatever the new acronym is for all the top tech giants 😂) have a multi-step interview process that covers a broad range of skills. 🧑🏾‍💻
 
 Depending on the type of role that you're applying for, you'll have to:
 
 - Prove that you know how to code
 - Show that you know about the company and its values
-- Demonstrate that you have the *right stuff*™️ to excel at the job
+- Demonstrate that you have the *right stuff*™️ to excel at the job
 
 **Here are some of the things you might run into during your interviews.**
 
