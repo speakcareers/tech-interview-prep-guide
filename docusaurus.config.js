@@ -14,7 +14,6 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
   presets: [
     [
       'classic',
@@ -122,6 +121,15 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  plugins: [
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-W0RVPWQ9PC',
+        anonymizeIP: false,
+      },
+    ],
+  ],
 };
 
 module.exports = config;
