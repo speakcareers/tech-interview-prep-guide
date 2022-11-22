@@ -2,8 +2,8 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 const config = {
-  title: 'Speak_',
-  tagline: 'Prepare for technical interviews with a free cohort-based course.',
+  title: 'Tech Interview Prep Guide by Speak_',
+  tagline: 'PA free resource to help you ace your tech interviews.',
   url: 'https://.pages.dev',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -20,7 +20,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/speakcareers/tip/tree/main/',
+          editUrl: 'https://github.com/speakcareers/tech-interview-prep-guide/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
