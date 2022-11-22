@@ -63,6 +63,7 @@ const config = {
                 html: `
                   <img src="/img/speak_logo.png" alt="Powered by Speak_" class="footerLogo" />
                   <div>Tech Interview Prep Guide</div>
+                  <iframe src="https://ghbtns.com/github-btn.html?user=speakcareers&amp;repo=tech-interview-prep-guide&amp;type=star&amp;count=true&amp;size=small" frameborder="0" scrolling="0" width="150" height="20" title="GitHub Stars"></iframe>
                 `,
               },
             ],

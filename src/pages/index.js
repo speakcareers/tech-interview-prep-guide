@@ -14,11 +14,12 @@ function HomepageHeader() {
         <img src = "/img/speak_logotype_reversed.svg" alt="Speak_ Logo" className={styles.heroLogo}/>
         <h1 className={styles.hero__title}>Tech Interview Prep Guide</h1>
         <h2 className={styles.hero__subtitle}>A free resource to help you ace your interviews and get hired.</h2>
-        <div>
+        <div className={styles.hero__btn__div}>
           <Link className={clsx('btn', styles.heroBtn)} to="/docs/welcome/about-this-guide">
             Dive into the guide
           </Link>
         </div>
+        <iframe src="https://ghbtns.com/github-btn.html?user=speakcareers&amp;repo=tech-interview-prep-guide&amp;type=star&amp;count=true&amp;size=small" frameborder="0" scrolling="0" width="150" height="20" title="GitHub Stars"></iframe>
       </div>
     </header>
   );

@@ -162,7 +162,7 @@ iframe {
 }
 
 @media (min-width: 1440px) {
-  .container {
+  .container.narrow {
     max-width: 600px;
   }
   .navbar__inner, .footer {

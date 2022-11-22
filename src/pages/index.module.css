@@ -41,6 +41,10 @@
   -webkit-font-smoothing: antialiased;
 }
 
+.hero__btn__div {
+  margin-bottom: 1rem;
+}
+
 .heroBtn {
   background-color: #FFFFFF;
   color: #000000;
