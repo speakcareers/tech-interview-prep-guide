@@ -6,7 +6,7 @@ sidebar_position: 4
 
 The world is a-changin', y'all. These days, companies that used to fly you out for in-person interview events are running the whole operation online through tools like Zoom.
 
-Some companies are going back to a hybrid model where employees are expected to visit the office a few times a week, but many notable companies have even gone fully remote with no plans to return to the office anytime soon.
+Some companies are going back to requiring everyone to work in an office, some are going with a hybrid model where employees are expected to visit the office a few times a week, but many notable companies have gone fully remote with no plans to return to the office anytime soon.
 
 Whether or not you've worked remotely or had a remote interview before, it's important you know what you need to be successful in this type of online setting.
 
@@ -57,9 +57,9 @@ It brings you into the moment, which is great because thinking of the past (_I s
 
 If you can remain optimistic and positive before and during your interview, you'll be able to better manage any bumps in the road, and your interviewer will appreciate that, too.
 
-:::tip Tip
+:::tip
 
-Some of these might seem silly or inconsequential to you, but having a decent remote interview setup can make a big difference in how you perform.
+Some of these tips might seem silly or inconsequential to you, but having a decent remote interview setup can make a big difference in how you perform.
 
 Take advantage of every little improvement you can in order to stand out, do your best, and make a great impression.
 

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 description: Keep Speak_ a safe, inclusive space.
 ---
 

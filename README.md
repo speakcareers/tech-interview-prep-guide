@@ -1,20 +1,32 @@
-# Speak\_ Tech Interview Prep
+# Speak\_ Tech Interview Prep Guide
 
----
+Read this guide on [the website](https://tip.speak.careers) for the best experience.
 
-## What is Speak\_?
+## About this guide
 
-Speak\_ is a FREE cohort-based course designed to teach you about the technical interview process.
+This is a free, public, open source guide to help software engineers prepare for tech interviews at any company. 🚀
 
-Throughout the course, you'll learn about the stages that make up the entire technical interview lifecycle, from resume screening to final interviews.
+It grew out of the free, 2-week cohort-based course Speak\_ runs, which connect hundreds of job-seeking engineers to help each other get ready for interviews.
 
-In the community, you'll be given multiple opportunities to connect with peers, practice coding aloud (a crucial interview skill!), do mock interviews, and develop & refine your answers to common interview questions.
+## About Speak\_
 
-## How do I join a Speak\_ cohort?
+Speak_ is a new tech startup that's reinventing the hiring experience for Gen Z. Employers use our platform to give value to their candidates, whether or not they get an offer. ✨
 
-Speak\_ starts a new 2-week cohort twice per month:
+Through community, content, and events, we deliver a social candidate experience that helps each individual prepare for their interviews, grow their network, and sharpen their skills.
 
-- On the first Wednesday of the month.
-- On the 3rd Wednesday of the month.
+[Learn more about Speak\_.](https://speak.careers)
 
-To join the next cohort, all you have to do is [fill out an application](https://speak.careers).
+## Contribute
+
+You can suggest edits to this guide to help make it better for the community. Find a typo? Suggest a fix! Know a resource that should be included? Let us know! 👊🏾
+
+## Get involved
+
+There are lots of ways to get value from Speak\_.
+
+- [Join our Discord](https://discord.gg/wjnAEVjbCu)
+- [Join our talent base to get job opportunities](https://speak.careers)
+- [Subscribe to our newsletter](https://bit.ly/3RvNqHE)
+- [Join a free cohort](https://speak.careers)
+
+We hope you get value from this guide and share it with anyone you think might appreciate it. 🙂
