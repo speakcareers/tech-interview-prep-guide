@@ -156,15 +156,15 @@ iframe {
 }
 
 @media (max-width: 996px) {
-  main {
-
-  }
   .footer .footer__col:nth-child(2) {
     display: none;
   }
 }
 
 @media (min-width: 1440px) {
+  .container {
+    max-width: 600px;
+  }
   .navbar__inner, .footer {
     max-width: 1320px;
   }
