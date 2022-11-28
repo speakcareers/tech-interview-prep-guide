@@ -50,7 +50,7 @@ export default function Home() {
             <div className={clsx('col col--6', styles.verticalCenter)}>
               <h2>Inside the guide.</h2>
               <ul>
-                <li>Techincal hiring process deep dive</li>
+                <li>Technical hiring process deep dive</li>
                 <li>Hard &amp; soft skill frameworks</li>
                 <li>Recruiter-friendly resume template</li>
                 <li>Data structures & algorithms study plan</li>
