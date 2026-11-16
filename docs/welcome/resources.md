@@ -38,6 +38,7 @@ Do you know of a killer resource that’s missing here? Just click "Edit this pa
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Kent C Dodds](https://kentcdodds.com/blog/using-fetch-with-type-script)
 - [NodeSchool](https://nodeschool.io/#workshopper-list)
+- [Build Accessible Tabs with JavaScript](https://webcheatsheet.com/javascript/accessible-tabs-javascript) – A practical example of keyboard handling, focus and ARIA state.
 
 ## YouTube
 
